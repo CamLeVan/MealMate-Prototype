@@ -1,6 +1,6 @@
 # MealMate Prototype 🍽️
 
-![MealMate Banner](UI_Design/SuggestedMealPlan)
+![MealMate Banner](UI_Design/SuggestedMealPlan.png)
 
 ## 📋 Tổng quan dự án
 
