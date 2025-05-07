@@ -25,13 +25,23 @@ Kho mã được tổ chức như sau:
 
 - **`UI_Design/`**: Thiết kế giao diện Figma được xuất dưới dạng file PNG.
   - `WelcomeScreen.png`: Màn hình chào mừng và đăng ký nhanh.
+  - ![Welcome Screen](UI_Design/WelcomeScreen.png)
+
   - `PersonalInformation.png`: Màn hình nhập thông tin người dùng.
+  - ![PersonalInformation Screen](UI_Design/PersonalInformation.png)
+
   - `ConfirmPersonalInformation.png`: Màn hình xác nhận thông tin người dùng.
+  - ![Confirm PersonalInformation Screen](UI_Design/ConfirmPersonalInformation.png)
   - `SuggestedMealPlan.png`: Màn hình hiển thị thực đơn gợi ý bởi AI.
+  - ![Suggested MealPlan Screen](UI_Design/SuggestedMealPlan.png)
   - `MealDetails.png`: Màn hình chi tiết món ăn và nguyên liệu.
+  - ![MealDetails Screen](UI_Design/MealDetails.png)
   - `AlternativeMeals.png`: Màn hình gợi ý món ăn thay thế.
+  - ![AlternativeMeals Screen](UI_Design/AlternativeMeals.png)
   - `DailyMeals.png`: Màn hình lập lịch ăn uống hàng ngày.
+  - ![DailyMeals Screen](UI_Design/DailyMeals.png)
   - `DailyMealsCalories.png`: Màn hình bữa ăn hàng ngày với hình ảnh và thông tin dinh dưỡng.
+  - ![DailyMealsCalories Screen](UI_Design/DailyMealsCalories.png)
 - **`Data_Samples/`**: File JSON mô phỏng dữ liệu ứng dụng.
   - `meal_suggestion_sample.json`: Dữ liệu mẫu cho gợi ý thực đơn dựa trên AI.
 - **`Documents/`**: Tài liệu liên quan đến Scrum.
